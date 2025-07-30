@@ -1,0 +1,4 @@
+data/
+gtb_bs/
+.venv/
+*poetry.lock
