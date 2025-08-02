@@ -2,7 +2,8 @@ data/
 gtb_bs/
 .venv/
 *poetry.lock
-opay_bs\opay_bankstatement.pdf
+*opay_bs\opay_bankstatement.pdf
 *trial.ipynb
 *.env
-
+*bs_transaction.log
+tests/
